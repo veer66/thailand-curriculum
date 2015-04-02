@@ -1,4 +1,4 @@
-Thailand curriculum in Thai and English
+Thailand curriculum in Thai and English are collected here for educational purpose.
 
 ## References
 
